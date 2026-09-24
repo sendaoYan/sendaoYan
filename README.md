@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 📊 GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/sendaoYan/sendaoYan/main/github-metrics.svg)
+
 <!--
 **sendaoYan/sendaoYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
